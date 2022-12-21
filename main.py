@@ -1,6 +1,7 @@
 import os
 import pygame
 
+ptint("A little change")
 pygame.display.init()
 pygame.display.set_caption("Swords And Sandals")
 screen = pygame.display.set_mode((1280, 720))
